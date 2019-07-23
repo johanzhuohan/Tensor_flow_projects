@@ -8,7 +8,7 @@ Project 1: Handwritten digit recognition with neural network
 
 Project 2: Handwritten digit recognition with convolutional neural network
            * Same data set as project 1, but with additional convolution + maxpooling layers.
-           * Effect of number of batches on training time and accuracy evaluated.
+           * Effect of batch size on training time and accuracy evaluated.
            * Visualization of feature maps on convolution and pooling layers.
 
 Project 3: Happy-or-sad face binary classification with CNN and automatic feature labelling
