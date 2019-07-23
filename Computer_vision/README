@@ -11,7 +11,7 @@ Project 2: Handwritten digit recognition with convolutional neural network
            * Effect of batch size on training time and accuracy evaluated.
            * Visualization of feature maps on convolution and pooling layers.
 
-Project 3: Happy-or-sad face binary classification with CNN and automatic feature labelling
+Project 3: Happy-or-sad faces binary classification with CNN and automatic feature labelling
            * Building a convolutional neural network for binary classification of images.
            * Labelling the data set automatically using ImageDataGenerator in Keras.
            * 80 training set (40 for happy, 40 for sad)
