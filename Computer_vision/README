@@ -16,3 +16,11 @@ Project 3: Happy-or-sad faces binary classification with CNN and automatic featu
            * Labelling the data set automatically using ImageDataGenerator in Keras.
            * 80 training set (40 for happy, 40 for sad)
            * Visualization of feature maps on convolution and pooling layers.
+
+Project 4: Kaggle cats-or-dogs binary classification with CNN and early stopping and checkpoint
+         * Building a convolutional neural network for binary classification of images.
+         * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
+         * Labelling the data set automatically using ImageDataGenerator in Keras.
+         * Callbacks with EarlyStopping and ModelCheckpoint
+         * History of training/validation accuracy and loss
+         * Visualization of feature maps on convolution and pooling layers.
