@@ -1,32 +1,32 @@
 Computer vision projects on coursera course "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
 
-Project 1: Handwritten digit recognition with neural network
+Project 1: Handwritten digit recognition with neural network (Handwritten_digit_recognition_with_NN.ipynb)
            * Handwritten digits from MNIST datase
            * 60,000 training set and 10,000 test sets
            * Each example is a 28x28 grayscale image, associated with a label from 10 classes
            * Single hidden layer + output layer
 
-Project 2: Handwritten digit recognition with convolutional neural network
+Project 2: Handwritten digit recognition with convolutional neural network (Handwritten_digit_recognition_with_CNN.ipynb)
            * Same data set as project 1, but with additional convolution + maxpooling layers.
            * Effect of batch size on training time and accuracy evaluated.
            * Visualization of feature maps on convolution and pooling layers.
 
-Project 3: Happy-or-sad faces binary classification with CNN and automatic feature labelling
+Project 3: Happy-or-sad faces binary classification with CNN and automatic feature labelling (Happy-or-sad binary classification with CNN and ImageDataGenerator.ipynb)
            * Building a convolutional neural network for binary classification of images.
            * Labelling the data set automatically using ImageDataGenerator in Keras.
            * 80 training set (40 for happy, 40 for sad)
            * Visualization of feature maps on convolution and pooling layers.
 
-Project 4: Kaggle cats-or-dogs binary classification with CNN and early stopping and checkpoint
-         * Building a convolutional neural network for binary classification of images.
-         * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
-         * Labelling the data set automatically using ImageDataGenerator in Keras.
-         * Callbacks with EarlyStopping and ModelCheckpoint
-         * History of training/validation accuracy and loss
-         * Visualization of feature maps on convolution and pooling layers.
+Project 4: Kaggle cats-or-dogs binary classification with CNN and early stopping and checkpoint (Kaggle_cats_or_dogs_CNN.ipynb)
+          * Building a convolutional neural network for binary classification of images.
+          * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
+          * Labelling the data set automatically using ImageDataGenerator in Keras.
+          * Callbacks with EarlyStopping and ModelCheckpoint
+          * History of training/validation accuracy and loss
+          * Visualization of feature maps on convolution and pooling layers.
          
-Project 5: Kaggle cats-or-dogs binary classification with CNN and data augmentation
-         * Building a convolutional neural network for binary classification of images.
-         * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
-         * Data augmentation with ImageDataGenerator in Keras.
-         * History of training/validation accuracy and loss
+Project 5: Kaggle cats-or-dogs binary classification with CNN and data augmentation (Kaggle_cats_or_dogs_CNN2.ipynb)
+          * Building a convolutional neural network for binary classification of images.
+          * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
+          * Data augmentation with ImageDataGenerator in Keras.
+          * History of training/validation accuracy and loss
