@@ -30,3 +30,10 @@ Project 5: Kaggle cats-or-dogs binary classification with CNN and data augmentat
           * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
           * Data augmentation with ImageDataGenerator in Keras.
           * History of training/validation accuracy and loss
+
+Project 6: Kaggle cats-or-dogs binary classification with CNN and transfer learning and dropout (Kaggle_cats_or_dogs_CNN3.ipynb)
+          * Building a convolutional neural network for binary classification of images.
+          * 3,000 JPG pictures of cats and dogs from the ["Dogs vs. Cats" dataset](https://www.kaggle.com/c/dogs-vs-cats/data) available on Kaggle.
+          * Transfer learning from an existing Inception V3
+          * Data augmentation and dropout for avoiding overfitting
+          * History of training/validation accuracy and loss
