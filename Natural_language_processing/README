@@ -3,7 +3,7 @@ Natural language processing projects on coursera course "Tensoflow in practice"
 Project 1: Movie review binary classification (IMDB.ipynb)
            * Positive and negative movie reviews from IMDB dataset (http://ai.stanford.edu/~amaas/data/sentiment/)
            * 25,000 training set and 25,000 test sets
-           * Word embedding for mapping words with smentics in a higher dimensional space
+           * Word embedding for mapping words with semantics in a higher dimensional space
            * Flattening vs Global average pooling
 
 
