@@ -11,3 +11,9 @@ Project 2: Sequential NLP model with IMDB dataset (IMDB_sequential.ipynb)
           * Positive and negative movie reviews from IMDB dataset (http://ai.stanford.edu/~amaas/data/sentiment/)
           * 25,000 training set and 25,000 test sets
           * Different types of sequential and convolutional models tested: LSTM, GRU, and 1D convolution.
+
+Project 3: Poetry generator with Shakespeare sonnets (Shakespeare_generator)
+          * Machine learned poetry generator using Shakespeare sonnets.
+          * Current sentences as inputs, and next word as labels.
+          * Word embedding and (bidirectional) LSTM.
+          * Dropout and L2 regularization for avoiding overfitting.
