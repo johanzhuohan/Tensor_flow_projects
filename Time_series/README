@@ -8,4 +8,4 @@ Project 1: Statistical forecasring on synthesized time siries (Stat_forecast.ipy
 Project 2: Deep neural network model on synthesized time series (DNN.ipynb)
           * Use linear regression and deep neural network to forecast a synthesized time siries
           * Windowed time siries for training.
-          * Automatic tuning of learning rate with callbacks.
+          * Dynamic tuning of learning rate with callbacks.
