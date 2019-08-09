@@ -7,12 +7,19 @@ Project 1: Statistical forecasring on synthesized time siries (Stat_forecast.ipy
 
 Project 2: Deep neural network model on synthesized time series (DNN_forecast.ipynb)
           * Use linear regression and deep neural network to forecast a synthesized time siries
-          * Windowed time siries for training.
+          * Windowed time series for training.
           * Dynamic tuning of learning rate with callbacks.
 
 Project 3: Revursive neural network model on synthesized time series (RNN_forecast.ipynb)
           * Use sequence RNN models for forecasting synthesized time sires.
           * Comparison of simple RNN vs LSTM
-          * Windowed time siries for training.
+          * Windowed time series for training.
           * Dynamic tuning of learning rate with callbacks.
           * Lambda layers for pre- and post-processing of data within NN.
+
+Project 4: LSTM + CNN for sunspot time sires (LSTM_Conv_forecase.ipynb)
+         * Experiment with the effect of an addtional Convolutional layer on LSTM model performance on forecasting real life time sires.
+         * Real life time siries of sunspot intensity
+         * Windowed time series for training.
+         * Dynamic tuning of learning rate with callbacks.
+         * Lambda layers for post-processing of data within NN.
