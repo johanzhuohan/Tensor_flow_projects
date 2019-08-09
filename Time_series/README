@@ -23,3 +23,4 @@ Project 4: LSTM + CNN for sunspot time sires (LSTM_Conv_forecase.ipynb)
          * Windowed time series for training.
          * Dynamic tuning of learning rate with callbacks.
          * Lambda layers for post-processing of data within NN.
+         * Experiments with tuning hyperparameters.
